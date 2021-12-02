@@ -4,3 +4,4 @@ These are my solutions for the [Advent of Code 2021](https://adventofcode.com/20
 calendar.
 
 * __December 1<sup>st</sup>__: [Sonar Sweep](December01)
+* __December 2<sup>nd</sup>__: [Dive!](December02)
