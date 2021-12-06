@@ -8,3 +8,4 @@ calendar.
 * __December 3<sup>rd</sup>__: [Binary Diagnostic](December03)
 * __December 4<sup>th</sup>__: [Giant Squid](December04)
 * __December 5<sup>th</sup>__: [Hydrothermal Venture](December05)
+* __December 6<sup>th</sup>__: [Lanternfish](December06)
